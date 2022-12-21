@@ -1,3 +1,48 @@
+# My React Native Counter App
+This is a simple React Native app with a login feature and a counter that increments and decrements. It was built using Expo and TypeScript.
+
+## Prerequisites
+Node.js
+Expo CLI
+
+## Getting Started
+Clone the repository:
+
+```
+git clone https://github.com/voke1/counterApp.git
+```
+
+Navigate to the project directory:
+```
+cd counterApp
+```
+
+Install the dependencies:
+
+```
+yarn install
+```
+
+Run the app:
+```
+expo start
+```
+
+Testing
+To run the tests for the app, use the following command:
+
+```
+npm test
+```
+
+This will run all of the unit, integration, and snapshot tests for the app.
+
+##  License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
 
 
 # Answers to Questions;
