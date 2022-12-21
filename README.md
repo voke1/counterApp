@@ -1,8 +1,14 @@
+
+## Answers to Questions
 1.) In React, a "hook" is a special function that allows a functional component to use state and other React features. There are several main hooks in React, including:
 
 useState: This hook allows a functional component to use state in the same way that a class-based component can. It takes an initial state value as an argument, and returns an array with two elements: the current state value, and a function for updating the state. For example:
-Copy code
-const [count, setCount] = useState(0);
+
+``
+ const [count, setCount] = useState(0);
+
+``
+
 This creates a state variable called count, initialized to 0, and a function called setCount that can be used to update the value of count.
 
 useEffect: This hook allows a functional component to perform side effects, such as making an HTTP request or setting up a subscription. It takes a function as an argument, which will be called after the component renders. This function can return a cleanup function, which will be called when the component unmounts. For example:
