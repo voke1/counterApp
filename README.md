@@ -4,10 +4,10 @@
 
 useState: This hook allows a functional component to use state in the same way that a class-based component can. It takes an initial state value as an argument, and returns an array with two elements: the current state value, and a function for updating the state. For example:
 
-``
+```
  const [count, setCount] = useState(0);
 
-``
+```
 
 This creates a state variable called count, initialized to 0, and a function called setCount that can be used to update the value of count.
 
