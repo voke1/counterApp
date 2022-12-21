@@ -40,8 +40,8 @@ This will run all of the unit, integration, and snapshot tests for the app.
 ##  License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-
+![alt text](https://github.com/voke1/counterApp/blob/develop/screenshots/app.jpg?raw=true)
+![alt text](https://github.com/voke1/counterApp/blob/develop/screenshots/app1.jpg?raw=true)
 
 
 
